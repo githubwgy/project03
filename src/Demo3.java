@@ -7,9 +7,8 @@ public class Demo3 {
         System.out.println("xxxxxxxxx");
         System.out.println("xxxxxxxxx");
         System.out.println("xxxxxxxxx");
-        System.out.println("zzzz");
-        System.out.println("xxx");
-        System.out.println("yyyy");
+
+
 
     }
 }
