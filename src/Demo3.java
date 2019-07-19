@@ -5,5 +5,11 @@
 public class Demo3 {
     public static void main(String[] args) {
         System.out.println("xxxxxxxxx");
+        System.out.println("xxxxxxxxx");
+        System.out.println("xxxxxxxxx");
+        System.out.println("zzzz");
+        System.out.println("xxx");
+        System.out.println("yyyy");
+
     }
 }
