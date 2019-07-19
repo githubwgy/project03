@@ -3,4 +3,7 @@
  * 佛祖保佑,永无BUG
  */
 public class Demo3 {
+    public static void main(String[] args) {
+        System.out.println("xxxxxxxxx");
+    }
 }
